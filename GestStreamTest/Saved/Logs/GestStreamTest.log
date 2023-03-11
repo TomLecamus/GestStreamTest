@@ -712,3 +712,84 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.03.11-15.58.00:148][503]LogContentBrowser: Deferred new asset file creation: NewWorld
 [2023.03.11-15.58.00:156][503]LogContentBrowser: Creating deferred item: NewWorld
 [2023.03.11-15.58.00:170][504]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2023.03.11-15.58.04:737][776]LogContentBrowser: Attempting asset rename: NewWorld -> LevelToLoad
+[2023.03.11-15.58.04:738][776]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.11-15.58.04:741][776]LogContentBrowser: End creating deferred item NewWorld
+[2023.03.11-15.58.19:812][378]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.03.11-15.58.19:824][378]LogContentBrowser: Creating deferred item: NewFolder
+[2023.03.11-15.58.19:833][379]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.03.11-15.58.21:114][454]LogContentBrowser: Attempting asset rename: NewFolder -> Map
+[2023.03.11-15.58.21:114][454]LogContentBrowser: End creating deferred item NewFolder
+[2023.03.11-15.58.23:877][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.03.11-15.58.23:883][611]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.005642 seconds
+[2023.03.11-15.58.23:885][611]LogSavePackage: Moving output files for package: /Game/Map/LevelToLoad
+[2023.03.11-15.58.23:885][611]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/GitHub/GestStreamTest/GestStreamTest/Saved/LevelToLoad2117A34245D91AAABA0D31A1B1A752AD.tmp' to '../../../../../../Users/ASUS/Documents/GitHub/GestStreamTest/GestStreamTest/Content/Map/LevelToLoad.umap'
+[2023.03.11-15.58.23:887][611]LogFileHelpers: Saving map 'LevelToLoad' took 0.025
+[2023.03.11-15.58.23:914][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.03.11-15.58.23:924][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.03.11-15.58.23:935][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.03.11-15.58.23:955][611]AssetCheck: New page: Asset Save: LevelToLoad
+[2023.03.11-15.58.23:955][611]LogContentValidation: Display: Validating World /Game/Map/LevelToLoad.LevelToLoad
+[2023.03.11-15.58.26:067][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.03.11-15.58.26:068][710]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Map/LevelToLoad.LevelToLoad
+[2023.03.11-15.58.26:069][710]Cmd: MAP LOAD FILE="../../../../../../Users/ASUS/Documents/GitHub/GestStreamTest/GestStreamTest/Content/Map/LevelToLoad.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.11-15.58.26:069][710]LightingResults: New page: Lighting Build
+[2023.03.11-15.58.26:069][710]LoadErrors: New page: Loading map: LevelToLoad.umap
+[2023.03.11-15.58.26:071][710]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.11-15.58.26:071][710]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.11-15.58.26:076][710]MapCheck: New page: Map Check
+[2023.03.11-15.58.26:076][710]LightingResults: New page: Lighting Build
+[2023.03.11-15.58.26:085][710]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.11-15.58.26:088][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.03.11-15.58.26:108][710]LogWorld: UWorld::CleanupWorld for LevelToLoad, bSessionEnded=true, bCleanupResources=true
+[2023.03.11-15.58.26:108][710]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.11-15.58.26:118][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.03.11-15.58.26:127][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.03.11-15.58.26:129][710]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelToLoad'.
+[2023.03.11-15.58.26:130][710]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.11-15.58.26:130][710]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.11-15.58.26:130][710]LogAIModule: Creating AISystem for world LevelToLoad
+[2023.03.11-15.58.26:132][710]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.11-15.58.26:150][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.03.11-15.58.26:154][710]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.11-15.58.26:154][710]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,159ms to complete.
+[2023.03.11-15.58.26:154][710]LogFileHelpers: Loading map 'LevelToLoad' took 0.086
+[2023.03.11-15.58.36:104][269]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2023.03.11-15.58.36:104][269]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2023.03.11-15.58.36:105][269]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/Map/LevelToLoad.LevelToLoad:PersistentLevel.StaticMeshActor_0
+[2023.03.11-15.58.36:118][269]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/Map/LevelToLoad.LevelToLoad:PersistentLevel.StaticMeshActor_0
+[2023.03.11-15.58.55:218][382]LogDerivedDataCache: C:/Users/ASUS/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:11.615 and deleted 0 file(s) with total size 0 MiB.
+[2023.03.11-15.59.14:143][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.03.11-15.59.15:923][495]LogSlate: Window 'Save Content' being destroyed
+[2023.03.11-15.59.15:980][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.03.11-15.59.15:985][495]LogSavePackage: Moving output files for package: /Game/Map/LevelToLoad
+[2023.03.11-15.59.15:986][495]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/GitHub/GestStreamTest/GestStreamTest/Saved/LevelToLoad6C6B9ECF47CA4951DB1B6FB1F4FE7B62.tmp' to '../../../../../../Users/ASUS/Documents/GitHub/GestStreamTest/GestStreamTest/Content/Map/LevelToLoad.umap'
+[2023.03.11-15.59.15:991][495]LogFileHelpers: Saving map 'LevelToLoad' took 0.020
+[2023.03.11-15.59.16:003][495]AssetCheck: New page: Asset Save: LevelToLoad
+[2023.03.11-15.59.16:003][495]LogContentValidation: Display: Validating World /Game/Map/LevelToLoad.LevelToLoad
+[2023.03.11-15.59.22:043][856]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.03.11-15.59.22:083][856]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2023.03.11-15.59.22:083][856]Cmd: MAP LOAD FILE="../../../../../../Users/ASUS/Documents/GitHub/GestStreamTest/GestStreamTest/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.11-15.59.22:083][856]LightingResults: New page: Lighting Build
+[2023.03.11-15.59.22:083][856]LoadErrors: New page: Loading map: ThirdPersonMap.umap
+[2023.03.11-15.59.22:084][856]LogWorld: UWorld::CleanupWorld for LevelToLoad, bSessionEnded=true, bCleanupResources=true
+[2023.03.11-15.59.22:085][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.11-15.59.22:085][856]MapCheck: New page: Map Check
+[2023.03.11-15.59.22:086][856]LightingResults: New page: Lighting Build
+[2023.03.11-15.59.22:094][856]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.11-15.59.22:095][856]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.03.11-15.59.22:097][856]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.11-15.59.22:097][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.11-15.59.22:106][856]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.03.11-15.59.22:115][856]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.03.11-15.59.22:122][856]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2023.03.11-15.59.22:122][856]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.11-15.59.22:123][856]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.03.11-15.59.22:123][856]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.11-15.59.22:123][856]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.03.11-15.59.22:155][856]LogWorldPartition: Display: WorldPartition initialize took 31 ms
+[2023.03.11-15.59.22:162][856]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.11-15.59.22:172][856]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.03.11-15.59.22:175][856]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.11-15.59.22:175][856]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,227ms to complete.
+[2023.03.11-15.59.22:176][856]LogFileHelpers: Loading map 'ThirdPersonMap' took 0.092
