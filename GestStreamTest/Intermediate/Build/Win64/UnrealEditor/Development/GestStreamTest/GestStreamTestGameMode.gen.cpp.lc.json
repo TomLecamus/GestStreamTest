@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\asus\\documents\\github\\geststreamtest\\geststreamtest\\intermediate\\build\\win64\\unrealeditor\\inc\\geststreamtest\\geststreamtestgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\asus\\documents\\github\\geststreamtest\\geststreamtest\\intermediate\\build\\win64\\geststreamtesteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\asus\\documents\\github\\geststreamtest\\geststreamtest\\intermediate\\build\\win64\\unrealeditor\\development\\geststreamtest\\definitions.geststreamtest.h",
+            "c:\\users\\asus\\documents\\github\\geststreamtest\\geststreamtest\\source\\geststreamtest\\geststreamtestgamemode.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "c:\\users\\asus\\documents\\github\\geststreamtest\\geststreamtest\\intermediate\\build\\win64\\unrealeditor\\inc\\geststreamtest\\geststreamtestgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

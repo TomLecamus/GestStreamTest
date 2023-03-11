@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\asus\\documents\\github\\geststreamtest\\geststreamtest\\source\\geststreamtest\\private\\levelloader.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\asus\\documents\\github\\geststreamtest\\geststreamtest\\intermediate\\build\\win64\\geststreamtesteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\asus\\documents\\github\\geststreamtest\\geststreamtest\\intermediate\\build\\win64\\unrealeditor\\development\\geststreamtest\\definitions.geststreamtest.h",
+            "c:\\users\\asus\\documents\\github\\geststreamtest\\geststreamtest\\source\\geststreamtest\\private\\levelloader.h",
+            "c:\\users\\asus\\documents\\github\\geststreamtest\\geststreamtest\\intermediate\\build\\win64\\unrealeditor\\inc\\geststreamtest\\levelloader.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

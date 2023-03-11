@@ -1,0 +1,25 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\asus\\documents\\github\\geststreamtest\\geststreamtest\\source\\geststreamtest\\private\\wavemanager.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\asus\\documents\\github\\geststreamtest\\geststreamtest\\intermediate\\build\\win64\\geststreamtesteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\asus\\documents\\github\\geststreamtest\\geststreamtest\\intermediate\\build\\win64\\unrealeditor\\development\\geststreamtest\\definitions.geststreamtest.h",
+            "c:\\users\\asus\\documents\\github\\geststreamtest\\geststreamtest\\source\\geststreamtest\\private\\wavemanager.h",
+            "c:\\users\\asus\\documents\\github\\geststreamtest\\geststreamtest\\intermediate\\build\\win64\\unrealeditor\\inc\\geststreamtest\\wavemanager.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\hierarchicalinstancedstaticmeshcomponent.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\instancedstaticmeshcomponent.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\public\\elements\\sminstance\\sminstancemanager.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\public\\elements\\sminstance\\sminstanceelementid.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\public\\instancedstaticmeshdelegates.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\sminstanceelementid.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\sminstancemanager.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\public\\primitiveinstanceupdatecommand.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\instancedstaticmeshcomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\hierarchicalinstancedstaticmeshcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
