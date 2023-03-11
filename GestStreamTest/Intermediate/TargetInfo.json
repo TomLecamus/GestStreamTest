@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GestStreamTest",
+			"Path": "C:\\Users\\ASUS\\Documents\\GitHub\\GestStreamTest\\GestStreamTest\\Source\\GestStreamTest.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GestStreamTestEditor",
+			"Path": "C:\\Users\\ASUS\\Documents\\GitHub\\GestStreamTest\\GestStreamTest\\Source\\GestStreamTestEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
